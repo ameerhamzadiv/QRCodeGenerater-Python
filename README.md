@@ -2,6 +2,6 @@
 Simple And Advance Options
 
 ```
-> pip install qrcode
-> pip install pillow
+ pip install qrcode
+ pip install pillow
 ```
